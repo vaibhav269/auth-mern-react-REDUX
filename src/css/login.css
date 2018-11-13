@@ -1,0 +1,21 @@
+.facebook-login-button{
+    background-color: #3f5d9a;
+    height: 100%;
+    width:100%;
+    font-size: 140%;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    border:none;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+.google-login-button{
+    background-color: #e00;
+    font-size: 140%;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    border:none;
+    font-weight: bold;
+    opacity: 0.8;
+}
